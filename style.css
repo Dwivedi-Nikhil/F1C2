@@ -1,0 +1,23 @@
+body {
+    margin: 0px;
+    background-color: #000;
+}
+ 
+#home {
+    position: relative;
+    width: 1440px;
+    height: 2203px;
+    background: #1F1F1F;
+}
+ 
+header {
+    position: absolute;
+    left: 59px;
+    top: 0px;
+    box-sizing: border-box;
+    width: 1323px;
+    height: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
